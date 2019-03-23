@@ -1,7 +1,7 @@
-# PyTorch pretrained BigGAN
+# PyTorch pretrained BigGAN 假脸生成网络https://mp.weixin.qq.com/s/6lE1bwL8E3G4CNvRfQyN1g
 An op-for-op PyTorch reimplementation of DeepMind's BigGAN model with the pre-trained weights from DeepMind.
 
-假脸生成网络
+
 
 ## Introduction
 
