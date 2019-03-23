@@ -1,6 +1,8 @@
 # PyTorch pretrained BigGAN
 An op-for-op PyTorch reimplementation of DeepMind's BigGAN model with the pre-trained weights from DeepMind.
 
+假脸生成网络
+
 ## Introduction
 
 This repository contains an op-for-op PyTorch reimplementation of DeepMind's BigGAN that was released with the paper [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://openreview.net/forum?id=B1xsqj09Fm) by Andrew Brocky, Jeff Donahuey and Karen Simonyan.
